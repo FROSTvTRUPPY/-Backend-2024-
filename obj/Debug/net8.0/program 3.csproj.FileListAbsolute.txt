@@ -1,0 +1,14 @@
+C:\Users\FROSTvTRUPPY\source\repos\program 3\bin\Debug\net8.0\program 3.exe
+C:\Users\FROSTvTRUPPY\source\repos\program 3\bin\Debug\net8.0\program 3.deps.json
+C:\Users\FROSTvTRUPPY\source\repos\program 3\bin\Debug\net8.0\program 3.runtimeconfig.json
+C:\Users\FROSTvTRUPPY\source\repos\program 3\bin\Debug\net8.0\program 3.dll
+C:\Users\FROSTvTRUPPY\source\repos\program 3\bin\Debug\net8.0\program 3.pdb
+C:\Users\FROSTvTRUPPY\source\repos\program 3\obj\Debug\net8.0\program 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FROSTvTRUPPY\source\repos\program 3\obj\Debug\net8.0\program 3.AssemblyInfoInputs.cache
+C:\Users\FROSTvTRUPPY\source\repos\program 3\obj\Debug\net8.0\program 3.AssemblyInfo.cs
+C:\Users\FROSTvTRUPPY\source\repos\program 3\obj\Debug\net8.0\program 3.csproj.CoreCompileInputs.cache
+C:\Users\FROSTvTRUPPY\source\repos\program 3\obj\Debug\net8.0\program 3.dll
+C:\Users\FROSTvTRUPPY\source\repos\program 3\obj\Debug\net8.0\refint\program 3.dll
+C:\Users\FROSTvTRUPPY\source\repos\program 3\obj\Debug\net8.0\program 3.pdb
+C:\Users\FROSTvTRUPPY\source\repos\program 3\obj\Debug\net8.0\program 3.genruntimeconfig.cache
+C:\Users\FROSTvTRUPPY\source\repos\program 3\obj\Debug\net8.0\ref\program 3.dll
